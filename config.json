@@ -1,0 +1,20 @@
+{
+  "slug": "javascript",
+  "language": "JavaScript",
+  "repository": "https://github.com/hanumakanthvvn/x-javascript",
+  "active": true,
+  "problems": [
+    "contact-manager",
+    "micro-tasks"
+  ],
+  "deprecated": [
+    "octal",
+    "point-mutations"
+  ],
+  "ignored": [
+
+  ],
+  "foregone": [
+
+  ]
+}
