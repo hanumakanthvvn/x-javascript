@@ -4,6 +4,10 @@
   "repository": "https://github.com/hanumakanthvvn/x-javascript",
   "active": true,
   "problems": [
+    "word-count",
+    "dominoes",
+    "largest-series-product",
+    "queen-attack",
     "contact-manager",
     "micro-tasks"
   ],
